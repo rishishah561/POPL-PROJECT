@@ -17,7 +17,7 @@ This project stands out as the first to utilize Rust and/or C++ libraries for re
 
 ### PoPL Aspects
 [Actix-Web](https://github.com/rishishah561/POPL-PROJECT/blob/main/Framework/actix-web/README.md) \
-[Boost-Beast] \
+[Boost-Beast](https://github.com/rishishah561/POPL-PROJECT/blob/main/Framework/boost-beast/README.md) \
 [Hiredis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Hiredis/README.md) \
 [Redis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Redis/README.md) \
 [SerDe](https://github.com/rishishah561/POPL-PROJECT/blob/main/Data%20Structures/SerDe/README.md) \
