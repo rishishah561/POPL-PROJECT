@@ -16,7 +16,7 @@ thus shedding light on how language-specific principles influence the developmen
 This project stands out as the first to utilize Rust and/or C++ libraries for real-time web traffic analysis and presents a unique comparative analysis. Notably, no external hardware or architectural components are required, focusing solely on software-based comparisons. The integration of VTUNE, an Intel-developed performance profiling tool, enhances the efficiency of performance analysis without the need for external databases.
 
 ### PoPL Aspects
-Hiredis [https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Hiredis/README.md]
+Hiredis[https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Hiredis/README.md]
 
 ### Testing Component: VTUNE
 
