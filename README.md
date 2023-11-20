@@ -21,7 +21,7 @@ This project stands out as the first to utilize Rust and/or C++ libraries for re
 [Hiredis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Hiredis/README.md) \
 [Redis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Redis/README.md) \
 [SerDe](https://github.com/rishishah561/POPL-PROJECT/blob/main/Data%20Structures/SerDe/README.md) \
-[JSON] 
+[JSON](https://github.com/rishishah561/POPL-PROJECT/blob/main/Data%20Structures/JSON/README.md)\
 
 ### Testing Component: VTUNE
 
