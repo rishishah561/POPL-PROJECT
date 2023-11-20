@@ -5,9 +5,9 @@
 ### Project Overview
 
 This project presents a systematic approach to implementing real-time web traffic analyzers in both Rust and C++, emphasizing the significance of language-specific features and design principles. The comparison involves key libraries such as:
-Actix-Web vs. Boost.Beast 
-Redis-Rs vs. Hiredis
-SerDe vs JSON
+1) Actix-Web vs. Boost.Beast\
+2) Redis-Rs vs. Hiredis\
+3) SerDe vs JSON\
 thus shedding light on how language-specific principles influence the development of high-performance systems. Concepts explored include concurrency models, memory management, type systems, and error handling strategies in Rust and C++. The analysis extends to performance metrics, reliability, safety, and security evaluations, providing practical insights for deploying real-time data systems.
 
 ### Differentiation in Approach
