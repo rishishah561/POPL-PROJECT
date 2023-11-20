@@ -20,7 +20,7 @@ This project stands out as the first to utilize Rust and/or C++ libraries for re
 [Boost-Beast] \
 [Hiredis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Hiredis/README.md) \
 [Redis](https://github.com/rishishah561/POPL-PROJECT/blob/main/Databases/Redis/README.md) \
-[SerDe] \
+[SerDe](https://github.com/rishishah561/POPL-PROJECT/blob/main/Data%20Structures/SerDe/README.md) \
 [JSON] 
 
 ### Testing Component: VTUNE
